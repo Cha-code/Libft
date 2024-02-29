@@ -8,3 +8,5 @@ So the longer term goal of this library is to grow with our own coded functions.
 Requirements
 
 This program is written in C language for Linux distributions and thus needs the clang compiler and some standard C libraries to run.
+
+Add the "libft" and link it when compiling, and you're all set to employ any libft functions in your project.
