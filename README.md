@@ -1,9 +1,7 @@
 # libft
 
-
-
-The aim of this project is to code a C library regrouping usual functions that we’ll be allowed to use in all our other projects
-at ecole 42 we are not allowed to use standard C library functions, we can use only functions we coded ourself. 
+libft is the first project of common core of ecole 42. The aim of this project is to code a C library regrouping usual functions that we’ll be allowed to use in all our other projects
+at ecole 42, becuase we are not allowed to use standard C library functions, we can use only functions we coded ourself. 
 So the longer term goal of this library is to grow with our own coded functions.
 
 # 🛠️ Usage
