@@ -18,9 +18,11 @@ $ make
 After compilation you will get an archive file with .a extention (which is a static library archive) to link and compile it with your other programs, you need to follow these steps:
 
 Compilation: Compile your main program files (*.c) along with any necessary header files using the clang compiler.
+
 ,,,console
 $ clang -c main.c -o main.o
 ,,,
+
 Linking: Link your main program with the static library file (.a file) using the -l option followed by the name of the library, and optionally specify the path to the library using the -L option.
 
 $ clang main.o -o my_program -L/path/to/library -lmylibrary
