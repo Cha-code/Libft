@@ -13,13 +13,15 @@ Instructions
 
 Compiling the program
 
+```
 $ make
+```
 
 After compilation you will get an archive file with .a extention (which is a static library archive) to link and compile it with your other programs, you need to follow these steps:
 
 Compilation: Compile your main program files (*.c) along with any necessary header files using the clang compiler.
 
-```shell
+```
 $ clang -c main.c -o main.o
 ```
 
