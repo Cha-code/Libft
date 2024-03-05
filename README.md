@@ -19,7 +19,7 @@ After compilation you will get an archive file with .a extention (which is a sta
 
 Compilation: Compile your main program files (*.c) along with any necessary header files using the clang compiler.
 
-,,,console
+,,,shell
 $ clang -c main.c -o main.o
 ,,,
 
